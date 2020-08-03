@@ -15,3 +15,7 @@ These guidelines are meant to help teach good practices, not to discourage anyon
 
 
 ### Thank You!
+When you contribute, please give yourself credit by adding yourself and a concise description of your contributions to the list below. Contributions are also tracked by the git commit history.
+
+Jonathan Lindsey ([JonathanLindsey](https://github.com/JonathanLindsey)) - Base Control Wheel Simulation.
+Jim S. ([jsimpso81](https://github.com/jsimpso81)) - Control Panel and Arm picture display, friction, lag, and slippage. Added the Control Wheel EXE.
