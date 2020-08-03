@@ -12,7 +12,7 @@ Have fun and learn something!
 
 This is simulation of the Control Panel, and a robot with a wheel and arm mechanism to turn the Control Panel. Write code in the TeleOp VI to move the Control Panel per the 2020 Infinite Recharge rules without changing any other VIs. You can start with manual controls and then move on to more automated controls.
 
-![2020ControlPanel](images/2020ColorWheel.PNG)
+![2020ControlPanel](images/2020ColorWheel.png)
 
 ## Contributing New Challenges
 

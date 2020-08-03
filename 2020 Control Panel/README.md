@@ -17,7 +17,7 @@ The bottom half of Main.VI shows the robot arm positioned next to the Control Pa
 
 This is a screen shot of Main.VI
 
-![2020ControlPanel](images/2020ColorWheel.PNG)
+![2020ControlPanel](images/2020ColorWheel.png)
 
 Be careful, it is possible to break the simulated robot if the arm or manipulator are moved incorrectly!
 
