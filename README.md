@@ -6,7 +6,7 @@ Each project has its own readme.me file contaning instructions for the exercise.
 
 Have fun and learn something!
 
-##Here are the current projects:
+## Here are the current projects:
 
 ### 2020 Control Panel
 
